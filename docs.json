@@ -8,6 +8,11 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
+  "seo": {
+    "metatags": {
+      "canonical": "https://docs.localdev.build"
+    }
+  },
   "navigation": {
     "tabs": [
       {
